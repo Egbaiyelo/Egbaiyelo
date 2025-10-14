@@ -8,10 +8,10 @@ My name is Monte and I'm an 📖 academically curious developer with a passion f
 
 **Currently exploring**  Rust and Web assembly with web graphics in OpenGL.
 
-**Recent Adventure:** Proud participant in the **🌍 NASA Space Apps Challenge**, where I contributed to a team tackling a biology knowledge search engine with NASA data.
+**Recent Adventure** Proud participant in the **🌍 NASA Space Apps Challenge**, where I contributed to a team tackling a biology knowledge search engine with NASA data.
 
 
-[![MVRedux Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=Workday-Consolidate&theme=dark)](https://github.com/YOUR_USERNAME/REPO_NAME)
+[![ Workday Consolidate repo card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=Workday-Consolidate&theme=dark)](https://github.com/Egbaiyelo/Workday-Consolidate)
 
 
 
@@ -61,7 +61,7 @@ Reach out on <img width="20" height="20" style="vertical-align: middle; position
 \
 \
 \
-and
+.
 
 
 
