@@ -4,14 +4,15 @@
 
 My name is Monte and I'm an 📖 academically curious developer with a passion for exploration. My journey has taken me from the field of Geography and environmental science into the world of software engineering and theoretical computing. I love discovering language hacks, useful tools and challenging projects, etc. I look forward to working on projects that make life easier, improve my productivity or teach me something new. 
 
-**Currently working on** [myWorkConsole](https://github.com/Egbaiyelo/Workday-Consolidate), an extension that streamlines application workflows and makes dealing with Workday jobs a bit easier. 
+**Currently working on** [MonopolyConsole](https://github.com/Egbaiyelo/MonopolyConsole), A monopoly game on console with TUI and bots **and** [Portfolio](https://github.com/Egbaiyelo/Portfolio), My portfolio
 
 **Currently exploring**  Rust and Web assembly with web graphics in OpenGL.
 
 **Recent Adventure** Proud participant in the **🌍 NASA Space Apps Challenge**, where I contributed to a team tackling a biology knowledge search engine with NASA data.
 
 
-[![ Workday Consolidate repo card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=Workday-Consolidate&theme=dark)](https://github.com/Egbaiyelo/Workday-Consolidate)
+[![ MonopolyConsole repo card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=MonopolyConsole&theme=dark)](https://github.com/Egbaiyelo/MonopolyConsole)
+[![ Portfolio repo card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=Portfolio&theme=dark)](https://github.com/Egbaiyelo/Portfolio)
 
 
 
