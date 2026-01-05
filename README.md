@@ -11,8 +11,11 @@ My name is Monte and I'm an 📖 academically curious developer with a passion f
 **Recent Adventure** Proud participant in the **🌍 NASA Space Apps Challenge**, where I contributed to a team tackling a biology knowledge search engine with NASA data.
 
 
-[![ MonopolyConsole repo card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=MonopolyConsole&theme=dark)](https://github.com/Egbaiyelo/MonopolyConsole)
-[![ Portfolio repo card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=Portfolio&theme=dark)](https://github.com/Egbaiyelo/Portfolio)
+<!--[![ MonopolyConsole repo card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=MonopolyConsole&theme=dark)](https://github.com/Egbaiyelo/MonopolyConsole)-->
+[![Portfolio repo card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Egbaiyelo&repo=MonopolyConsole&theme=dark)](https://github.com/Egbaiyelo/MonopolyConsole)
+
+[![Portfolio repo card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Egbaiyelo&repo=Portfolio&theme=dark)](https://github.com/Egbaiyelo/Portfolio)
+<!--[![ Portfolio repo card](https://github-readme-stats.vercel.app/api/pin/?username=Egbaiyelo&repo=Portfolio&theme=dark)](https://github.com/Egbaiyelo/Portfolio)-->
 
 
 
@@ -27,14 +30,15 @@ Reach out on <img width="20" height="20" style="vertical-align: middle; position
 <div style="display:flex;">
   <div style="display: inline-block; margin-right: 15px;">
     <a href="https://github.com/Egbaiyelo" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=Egbaiyelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true" alt="My Github stats" height="300"/>
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Egbaiyelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true" alt="My Github stats" height="300"/> -->
+     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Egbaiyelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true" alt="My Github stats" height="300"/>
     </a>
   </div>
 
   <div style="display: inline-block;">
     <a href="https://github.com/Egbaiyelo" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egbaiyelo&layout=compact&theme=dark&langs_count=8" alt="" height="300"/>
-    </a>
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egbaiyelo&layout=compact&theme=dark&langs_count=8" alt="" height="300"/> -->
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Egbaiyelo&layout=compact&theme=dark&langs_count=8" alt="Top Languages" height="300"/>    </a>
   </div>
 </div>
 
@@ -81,8 +85,8 @@ Reach out on <img width="20" height="20" style="vertical-align: middle; position
  -->
 
  ## I've contributed to
-[![MVRedux Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-e-brown&repo=mv-redux&theme=dark)](https://github.com/matthew-e-brown/mv-redux)
-
+<!-- [![MVRedux Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=matthew-e-brown&repo=mv-redux&theme=dark)](https://github.com/matthew-e-brown/mv-redux) -->
+[![MVRedux Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=matthew-e-brown&repo=mv-redux&theme=dark)](https://github.com/matthew-e-brown/mv-redux)
 
 [![Pull Requests Badge](https://img.shields.io/github/issues-pr/matthew-e-brown/MV-Redux)](https://github.com/matthew-e-brown/MV-Redux/pulls)
 
